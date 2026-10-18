@@ -1,0 +1,28 @@
+# 个人健康数据：永远不要提交
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.csv
+*.json
+ecg_output/
+out/
+in/
+data/
+私人记录/
+
+# 示例只放行合成数据
+examples/*
+!examples/synthetic_*
+
+# Python
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

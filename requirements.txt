@@ -1,0 +1,9 @@
+# 测试通过的版本：numpy 2.5.3/2.5.4, scipy 1.18.1, pandas 2.3.3, matplotlib 3.11.2, pymupdf 1.28.2,
+# opencv 5.0.0, neurokit2 0.2.13（Python 3.13）。neurokit2 的 R 峰检测直接决定结果，因此锁定精确版本。
+numpy>=2.0,<3
+scipy>=1.11
+pandas>=2.0
+matplotlib>=3.8
+pymupdf>=1.24
+opencv-python-headless>=4.8
+neurokit2==0.2.13
