@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 Chizukuo
 """
 合成测试数据：不含任何真实个人信息。
 

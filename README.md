@@ -3,7 +3,7 @@
 [![tests](https://github.com/Chizukuo/apple_watch_ecg/actions/workflows/tests.yml/badge.svg)](https://github.com/Chizukuo/apple_watch_ecg/actions/workflows/tests.yml)
 [![release](https://img.shields.io/github/v/release/Chizukuo/apple_watch_ecg)](https://github.com/Chizukuo/apple_watch_ecg/releases)
 [![python](https://img.shields.io/badge/python-%E2%89%A5%203.11-3776ab)](#安装)
-[![license](https://img.shields.io/badge/license-GPL--3.0-blue)](LICENSE)
+[![license](https://img.shields.io/badge/license-GPL--3.0--or--later-blue)](LICENSE)
 [![MIT-BIH](https://img.shields.io/badge/MIT--BIH-Se%2099.17%25%20%C2%B7%20PPV%2099.31%25-2e7d32)](validation/RESULTS.md)
 ![not a medical device](https://img.shields.io/badge/%E9%9D%9E%E5%8C%BB%E7%96%97%E8%AF%8A%E6%96%AD-%E4%BB%85%E4%BE%9B%E4%B8%AA%E4%BA%BA%E8%AE%B0%E5%BD%95-c62828)
 
@@ -242,6 +242,8 @@ pytest -q
 
 ## 许可证
 
-[GPL-3.0](LICENSE)。按许可证第 15、16 条，本程序不提供任何担保。
+Copyright © 2026 Chizukuo
+
+按 [GNU 通用公共许可证](LICENSE)第 3 版或（由你选择）任何更新版本（GPL-3.0-or-later）发布。按许可证第 15、16 条，本程序不提供任何担保。
 
 本项目与 Apple Inc. 无关，未获其认可；Apple Watch 是 Apple Inc. 的商标。

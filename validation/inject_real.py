@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 Chizukuo
 """在自己的真实记录里注入已知异常，检查工具能否在自己的波形和噪声上检出。
 
 用法：python validation/inject_real.py 你的PDF文件夹

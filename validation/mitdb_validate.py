@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 Chizukuo
 """用 MIT-BIH 心律失常数据库做外部验证。
 
 数据库本身不随仓库分发：从 PhysioNet 下载 mitdb（https://physionet.org/content/mitdb/1.0.0/），
